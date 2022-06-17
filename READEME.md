@@ -8,7 +8,7 @@ Thanks for checking out this project.
 - Semantic HTML5 markup
 - CSS custom properties
 - Flexbox
--Bootstrap
+- Bootstrap
 - Javascript
 
 ## Continued development
