@@ -44,12 +44,12 @@ body {
 }
 
 .navbar-section {
-    margin-left: 15rem;
+    margin-left: 10rem;
 }
 
 .navbar-nav .nav-item a {
     margin: 0 1rem !important;
-    font-size: 1rem;
+    font-size: .9rem !important;
     color: var(--black) !important;
     position: relative;
     letter-spacing: -0.02em;
@@ -112,6 +112,10 @@ body {
     padding: 2.5rem 2.5rem 0 2.5rem;
 }
 
+h1 {
+    overflow: hidden;
+}
+
 .featured-recipes-banner .hot-recipes {
     background-color: var(--white);
     width: 9rem;
@@ -135,6 +139,7 @@ body {
 .featured-recipes-banner h1 {
     font-size: 3.2rem;
     font-weight: 600;
+    /* width: 32.5rem;*/
     margin-top: 2rem;
     margin-bottom: 1.5rem;
     letter-spacing: -0.05em;
@@ -143,6 +148,7 @@ body {
 .featured-recipes-banner .recipes-content {
     color: rgba(0, 0, 0, 0.6);
     font-size: 1rem;
+    /* width: 32.5rem;*/
     font-weight: 400;
     margin-bottom: 1.9rem;
     line-height: 28px;
@@ -213,6 +219,10 @@ body {
     text-align: center;
     padding: 1rem;
     border-radius: 16px;
+    -webkit-border-radius: 16px;
+    -moz-border-radius: 16px;
+    -ms-border-radius: 16px;
+    -o-border-radius: 16px;
 }
 
 .featured-recipes-banner .admin .view-recipes i {
@@ -255,6 +265,10 @@ body {
     width: 12rem;
     padding: 1rem 1.4rem;
     border-radius: 20px;
+    -webkit-border-radius: 20px;
+    -moz-border-radius: 20px;
+    -ms-border-radius: 20px;
+    -o-border-radius: 20px;
 }
 
 .Categories-section .heading p a {
@@ -300,6 +314,10 @@ body {
     background: linear-gradient(rgba(108, 198, 63, 0) 0%, rgba(108, 198, 63, 0.1) 100%);
     width: 150px;
     border-radius: 30px;
+    -webkit-border-radius: 30px;
+    -moz-border-radius: 30px;
+    -ms-border-radius: 30px;
+    -o-border-radius: 30px;
 }
 
 .categories-item-2-details {
@@ -324,6 +342,10 @@ body {
     background: linear-gradient(rgba(204, 38, 27, 0) 0%, rgba(204, 38, 27, 0.1) 100%);
     width: 150px;
     border-radius: 30px;
+    -webkit-border-radius: 30px;
+    -moz-border-radius: 30px;
+    -ms-border-radius: 30px;
+    -o-border-radius: 30px;
 }
 
 .categories-item-3-details {
@@ -335,6 +357,10 @@ body {
 
 .categories-item-3-details img:hover {
     transform: scaleX(1.2);
+    -webkit-transform: scaleX(1.2);
+    -moz-transform: scaleX(1.2);
+    -ms-transform: scaleX(1.2);
+    -o-transform: scaleX(1.2);
 }
 
 .categories-item-3-details img {
@@ -348,6 +374,10 @@ body {
     background: linear-gradient(rgba(240, 158, 0, 0) 0%, rgba(240, 158, 0, 0.1) 100%);
     width: 150px;
     border-radius: 30px;
+    -webkit-border-radius: 30px;
+    -moz-border-radius: 30px;
+    -ms-border-radius: 30px;
+    -o-border-radius: 30px;
 }
 
 .categories-item-4-details {
@@ -361,6 +391,10 @@ body {
 
 .categories-item-4-details img:hover {
     transform: scaleX(1.2);
+    -webkit-transform: scaleX(1.2);
+    -moz-transform: scaleX(1.2);
+    -ms-transform: scaleX(1.2);
+    -o-transform: scaleX(1.2);
 }
 
 .categories-item-4-details img {
@@ -374,6 +408,10 @@ body {
     background: linear-gradient(rgba(0, 0, 0, 0) 0%, rgba(0, 0, 0, 0.05) 100%);
     width: 150px;
     border-radius: 30px;
+    -webkit-border-radius: 30px;
+    -moz-border-radius: 30px;
+    -ms-border-radius: 30px;
+    -o-border-radius: 30px;
 }
 
 .categories-item-5-details {
@@ -400,6 +438,10 @@ body {
     background: linear-gradient(rgba(0, 0, 0, 0) 0%, rgba(0, 0, 0, 0.05) 100%);
     width: 150px;
     border-radius: 30px;
+    -webkit-border-radius: 30px;
+    -moz-border-radius: 30px;
+    -ms-border-radius: 30px;
+    -o-border-radius: 30px;
 }
 
 .categories-item-6-details {
@@ -473,6 +515,10 @@ body {
 
 .Recipes-categories-img .imgg:hover {
     transform: scaleX(1.2);
+    -webkit-transform: scaleX(1.2);
+    -moz-transform: scaleX(1.2);
+    -ms-transform: scaleX(1.2);
+    -o-transform: scaleX(1.2);
 }
 
 .Recipes-section .Recipes-categories h3 {
@@ -504,6 +550,10 @@ body {
     margin-left: .5rem;
     margin-right: .5rem;
     border-radius: 20px;
+    -webkit-border-radius: 20px;
+    -moz-border-radius: 20px;
+    -ms-border-radius: 20px;
+    -o-border-radius: 20px;
     display: block;
     max-width: 18rem;
 }
@@ -534,6 +584,10 @@ body {
     color: var(--white);
     border-radius: 5px;
     width: 4rem;
+    -webkit-border-radius: 5px;
+    -moz-border-radius: 5px;
+    -ms-border-radius: 5px;
+    -o-border-radius: 5px;
 }
 
 .Recipes-section .Recipes-categories-ad {
@@ -576,6 +630,10 @@ body {
 .Recipes-categories-item-ad img {
     transform: scale(.8);
     margin-top: -40px;
+    -webkit-transform: scale(.8);
+    -moz-transform: scale(.8);
+    -ms-transform: scale(.8);
+    -o-transform: scale(.8);
     display: block;
 }
 
@@ -667,6 +725,10 @@ body {
 
 .post img:hover {
     transform: scaleX(1.2);
+    -webkit-transform: scaleX(1.2);
+    -moz-transform: scaleX(1.2);
+    -ms-transform: scaleX(1.2);
+    -o-transform: scaleX(1.2);
 }
 
 .social-link {
@@ -684,6 +746,10 @@ body {
     border-radius: 16px;
     font-weight: 600;
     font-size: 11px;
+    -webkit-border-radius: 16px;
+    -moz-border-radius: 16px;
+    -ms-border-radius: 16px;
+    -o-border-radius: 16px;
 }
 
 .social-link button i {
@@ -701,6 +767,7 @@ body {
     font-size: 2.5rem;
     font-weight: 600;
     letter-spacing: -0.04em;
+    /*width: 31rem;*/
 }
 
 .order-section p {
@@ -745,11 +812,23 @@ body {
 
 .order-items-imgg {
     border-radius: 20px;
+    -webkit-border-radius: 20px;
+    -moz-border-radius: 20px;
+    -ms-border-radius: 20px;
+    -o-border-radius: 20px;
 }
 
 .order-categories .order-items-img img {
     display: block;
     max-width: 15.5rem;
+}
+
+.order-categories .order-items-img img:hover {
+    transform: scaleX(1.2);
+    -webkit-transform: scaleX(1.2);
+    -moz-transform: scaleX(1.2);
+    -ms-transform: scaleX(1.2);
+    -o-transform: scaleX(1.2);
 }
 
 .order-categories .order-items-img .like-icon {
@@ -815,6 +894,10 @@ body {
 .sender form {
     background-color: var(--white);
     border-radius: 24px;
+    -webkit-border-radius: 24px;
+    -moz-border-radius: 24px;
+    -ms-border-radius: 24px;
+    -o-border-radius: 24px;
     text-align: center;
 }
 
@@ -835,6 +918,10 @@ body {
     padding: 1rem 3rem 1rem 3rem;
     border-radius: 16px;
     margin: .6rem 0 .6rem 0;
+    -webkit-border-radius: 16px;
+    -moz-border-radius: 16px;
+    -ms-border-radius: 16px;
+    -o-border-radius: 16px;
 }
 
 .footer-section {
@@ -927,7 +1014,7 @@ body {
         display: none;
     }
     .featured-recipes {
-        max-width: 100%;
+        width: 100%;
         margin-left: 2rem;
         margin-right: 2rem;
     }
@@ -952,6 +1039,9 @@ body {
         margin-top: 2rem;
         margin-bottom: 3rem;
     }
+    .header {
+        margin-bottom: 2rem;
+    }
 }
 
 @media (max-width: 992px) {
@@ -959,15 +1049,23 @@ body {
         display: none;
     }
     .featured-recipes {
-        width: 90%;
-        margin-left: 50px;
-        margin-right: 50px;
+        max-width: 90%;
+        margin: 0 auto;
+        /* margin-left: 50px;
+        margin-right: 50px;*/
     }
     .chicken img {
         display: block !important;
         width: 100%;
         border-radius: 0%;
         margin-top: 4rem;
+        -webkit-border-radius: 0%;
+        -moz-border-radius: 0%;
+        -ms-border-radius: 0%;
+        -o-border-radius: 0%;
+    }
+    .Categories-section {
+        margin-top: 5rem;
     }
 }
 
@@ -996,15 +1094,21 @@ body {
         align-items: center;
     }
     .featured-recipes {
-        margin-left: 2.5rem;
-        margin-right: 2.5rem;
-        max-width: 100%;
+        /*margin-left: 2.5rem;
+        margin-right: 2.5rem;*/
+        width: 90%;
+        margin: 0 auto;
     }
     .footer-header ul {
         display: none;
     }
     .footer-icons {
         display: none;
+    }
+    .kitchen-note h2,
+    p,
+    button {
+        text-align: center;
     }
 }
 
@@ -1015,6 +1119,12 @@ body {
     .Categories-section .heading h2 {
         text-align: center;
         margin-left: 2rem;
+    }
+    .Categories-content {
+        gap: 2rem;
+    }
+    .kitchen-note {
+        display: none;
     }
 }
 
@@ -1049,3 +1159,14 @@ body {
         max-width: 50rem;
     }
 }
+
+
+/*
+@media (min-width: 1545px) {
+    .featured-recipes .side-bar-2 {
+        display: none;
+    }
+}   }
+}   }
+}:  }
+}:
