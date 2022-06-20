@@ -1071,6 +1071,12 @@ h1 {
     .Categories-section {
         margin-top: 5rem;
     }
+    .order-section p {
+        display: none;
+    }
+    .order-section h2 {
+        text-align: center;
+    }
 }
 
 @media (max-width:1440px) {
