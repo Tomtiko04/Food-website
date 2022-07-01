@@ -1,7 +1,7 @@
-# Ogunneye oyinkansola - A Food Website
+# Ogunneye Oyinkansola - A Food Website
 
 ## Welcome! 👋
-Thanks for checking out this project.
+Thank you for checking out this project.
 
 ### Built with
 
@@ -17,4 +17,4 @@ Work in process.
 
 ## Author
 
--Email - [ogunneyeoyinkansola@gmail.com]
+- Email - [ogunneyeoyinkansola@gmail.com]
